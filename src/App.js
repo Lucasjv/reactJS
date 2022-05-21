@@ -3,8 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <h1>UNI REGALOS.</h1>
-    <h2>Tazas y remereas sublimadas.</h2>
+    <h1>Uni, regalos de otro planeta.</h1>
   );
 }
 
